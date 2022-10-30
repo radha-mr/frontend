@@ -6,7 +6,8 @@ In VSC editor open the path where the file is located and
 
 npm install ( in VSC) then npm start.
 
-Same time open the code for backend which is provided in other repository and download and open in IntellJ and run the application.
+Same time open the code for backend which is provided in other repository and download and open in IntellJ and run the application.or run from the jar file in target folder  java -jar (filename).jar in my case java -jar demo-0.0.1-SNAPSHOT.jar
+( pls check the port are mentioned in both proxy in frontend package.json file and also in application.properties in resource folder in backend.
 The complete application run in http:localhost:3000
 
 ## Details/Plan
