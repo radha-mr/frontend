@@ -12,5 +12,10 @@ Same time open the code for backend which is provided in other repository and do
 ( pls check the port are mentioned in both proxy in frontend package.json file and also in application.properties in resource folder in backend.
 The complete application run in http:localhost:3000
 
+## Docker 
+I faced so many issues is it with Mac or installation i faced so many issues i tried with other team members and my docker either stuck or show some error.For front end Authentication also i faced so many errors which i could not solve with this given short time. I have documented and also  I have added a detailed note in the Project Management document how i did and what i faced and i added notes to the reviewer .
+
+
+
 ## Details/Plan
 A document for Project Management about all set up and runing and outcome , screenshots and also diagrams for more understanding is provided . https://1drv.ms/w/s!Amn1Ate5iEpjfljuqPzm5GuWO-Q?e=8dFPli This is a project of making a moke of Netflix.
