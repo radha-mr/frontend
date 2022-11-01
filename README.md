@@ -2,7 +2,7 @@
 ## Before Setup
 In order to connect your frontend with our backend, you need to follow these instructions. Install the latest Node.js LTS version. Link here Clone the server repository. Git repository link Run npm install in the project root directory. Run npm run start to start the server.
 ## Run
-The database ( the exported table )is provided inside resource folder under src/main/resources/db/natflix.sql  (I also added some insert query in the data.sql in the same location)
+The database ( the exported table )is provided inside resource folder under src/main/resources/db/natflix.sql  
 Import natflix.sql into your local mySqlworkbench then you can run the application.
 
 
